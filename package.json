@@ -1,5 +1,5 @@
 {
-  "homepage": "https://thearchitecturecorporation.com",
+  "homepage": "https://ismail-is.github.io/Little-Paradise-Interiors-LLC",
   "name": "quarter",
   "version": "0.1.0",
   "private": true,
@@ -42,7 +42,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "react-snap": "^1.23.0"
   }
 }
