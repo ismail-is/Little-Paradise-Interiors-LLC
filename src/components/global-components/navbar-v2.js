@@ -190,9 +190,9 @@ class NavbarV2 extends Component {
 						<li><Link to="/home-v10">Home Style 10</Link></li>
 						</ul>
 						</li> */}
-						<li><Link to="/about">About</Link></li>
-						<li><Link to="/Architecture">Architecture Design</Link></li>
-								<li><Link to="/Interior">Interior Design </Link></li>
+						{/* <li><Link to="/about">About</Link></li> */}
+						{/* <li><Link to="/Architecture">Architecture Design</Link></li> */}
+								<li><Link to="/Interior">Project </Link></li>
 						{/* <li><Link to="/our-projects">Projects</Link>
 						<ul className="sub-menu" style={{fontSize:'20px'}}>
 							<li><Link to="/Architecture">Architecture Design </Link></li>
