@@ -1474,3 +1474,10 @@ https://images.pexels.com/photos/2240766/pexels-photo-2240766.jpeg?auto=compress
     height: 50vh !important;
   }
 }
+
+
+@media (max-width: 767px) {
+  .first{
+    width: 100%;
+  }
+}
