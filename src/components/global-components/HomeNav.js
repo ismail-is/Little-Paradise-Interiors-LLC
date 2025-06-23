@@ -56,13 +56,13 @@ class HomeNav extends Component {
 				</div>
 				{/* ltn__header-top-area end */}
 				{/* ltn__header-middle-area start */}
-				<div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-white " >
+				<div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-white "  >
 					<div className="container">
 					<div className="row">
 						<div className="col">
 						<div className="site-logo-wrap">
 							<div className="site-logo go-top">
-							<Link to="/"><img src={publicUrl+"assets/img/allimgLP/logo.png"} alt="Logo"  style={{width:'100px'}}/></Link>
+							<Link to="/"><img src={publicUrl+"assets/img/allimgLP/logo.png"} alt="Logo"  style={{width:'100px',height:'80px'}}/></Link>
 							</div>
 							<div className="get-support clearfix d-none">
 							<div className="get-support-icon">
@@ -164,7 +164,7 @@ class HomeNav extends Component {
 				<div className="ltn__utilize-menu-inner ltn__scrollbar">
 					<div className="ltn__utilize-menu-head">
 					<div className="site-logo">
-						<Link to="/"><img src={publicUrl+"assets/img/allimgLP/logo.png"} alt="Logo" style={{width:'90px'}} /></Link>
+						<Link to="/"><img src={publicUrl+"assets/img/allimgLP/logo.png"} alt="Logo" style={{width:'90px',height:'80px'}} /></Link>
 					</div>
 					<button className="ltn__utilize-close">×</button>
 					</div>

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import parse from 'html-react-parser';
 
-class JamalPage extends Component {
+class MonrevePage extends Component {
 
     render() {
 
@@ -17,7 +17,9 @@ class JamalPage extends Component {
                         {/* <h2 id='responsive-text-project-heading'>  Garment  Store / TWL
                         </h2> */}
                      {/* <label id='responsive-text-project-title'><span className="ltn__secondary-color"><img src={publicUrl+"assets/img/Allimgs/pin.png"}/></span>Mangalore</label>  */}
-                      <p   id='responsive-text-project-title'>Elegant Al Furjan villa in Dubai showcases modern luxury with timeless design elements. Featuring spacious layouts, soft neutral tones, and refined finishes, this home offers a serene, sophisticated atmosphere. Perfect for contemporary family living, every detail blends comfort and style in one of Dubai’s most desirable residential communities.</p>
+                      <p   id='responsive-text-project-title'>This small-scale interior project features a 1-bedroom apartment unit in the heart of Downtown Dubai, designed to reflect refined urban living with a blend of modern elegance and cozy functionality.</p>
+                      <p   id='responsive-text-project-title'>The concept revolves around clean lines, warm earthy tones, and strategic lighting, creating a seamless flow between spaces while enhancing visual comfort. The design combines contemporary furniture with statement lighting, tactile textures, and pops of green to introduce a natural element into the high-rise setting.</p>
+                      <p   id='responsive-text-project-title'>Large windows frame panoramic city views, reinforcing the connection between the indoor environment and the iconic Dubai skyline. Smart spatial planning and curated decor make this compact apartment feel open, calm, and inviting.</p>
                      {/* <div className="ltn__property-details-gallery mb-30" id='responsive-text-project-title'>
                         <div className="row">
                             <div className="col-md-4">
@@ -80,10 +82,9 @@ class JamalPage extends Component {
                             <a>
                                 {/* <img className="mb-30" src={publicUrl+"assets/img/allimgLP/jamal/jamal1.jpeg"} alt="Image" /> */}
                                 {/* <img className="mb-30" src={publicUrl+"assets/img/allimgLP/maz/maz2.jpg"} alt="Image" /> */}
-                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/jamal/jamal2.webp"} alt="Image" />
-                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/jamal/jamal3.webp"} alt="Image" />
-                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/jamal/jamal4.webp"} alt="Image" />
-                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/jamal/jamal5.webp"} alt="Image" />
+                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/Monreve/Monreve1.jpg"} alt="Image" />
+                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/Monreve/Monreve2.jpg"} alt="Image" />
+                                <img className="mb-30" src={publicUrl+"assets/img/allimgLP/Monreve/Monreve3.jpg"} alt="Image" />
                                 
                                 {/* <img className="mb-30" src={publicUrl+"assets/img/allimgLP/rolls/c2.jpg"} alt="Image" /> */}
                             </a>
@@ -274,4 +275,4 @@ class JamalPage extends Component {
         }
 }
 
-export default JamalPage
+export default MonrevePage

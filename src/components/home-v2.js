@@ -52,7 +52,12 @@ const Home_V2 = () => {
         {/* <HomePage/> */}
         {/* <BannerV2/> */}
         {/* <Banner/> */}
-        <BannerV3/>
+
+
+        {/* tac2 */}
+        {/* <BannerV3/> */}
+   {/* tac2 */}
+
         {/* <Banner /> */}
         {/* <Aboutv3 /> */}
         {/* <br/> */}
@@ -68,8 +73,15 @@ const Home_V2 = () => {
         {/* <Testimonial /> */}
         <BlogSlider />
         {/* <CallToActionV1 /> */}
-        <SponsorV2/>
-        <Sponsor/>
+
+         {/* mobile and desktop */}
+        {/* <SponsorV2/>
+        <Sponsor/> */}
+
+
+         {/* mobile and desktop */}
+
+
         <Footer />
         {/* <MainFooter/> */}
     </div>

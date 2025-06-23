@@ -355,7 +355,7 @@ Liv-In</Link></h3>
 
 		   {/* .......................................hide laptop and system */}
 		   
-		   <div className={ "ltn__blog-area pt-115--- pb-70 go-top "+ sectionClass} id='hidelaptopandsytem' >
+		   <div className={ "ltn__blog-area pt-115--- pb-70 go-top "+ sectionClass} id='hidelaptopandsytem'  style={{marginTop:'-100px'}}>
 		  <div className="container">
 		    <div className="row">
 		      <div className="col-lg-12">
@@ -375,11 +375,11 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/HospitalitySuite"><img src={publicUrl+"assets/img/Allimgs/Rohan Suite.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
+		            <Link to="/Sky"><img src={publicUrl+"assets/img/Allimgs/Sky.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/HospitalitySuite">Hospitality - Suite</Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/Sky">Sky</Link></h3>
 		            
 		          </div>
 		        </div>
@@ -387,11 +387,11 @@ Liv-In</Link></h3>
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details"><img src={publicUrl+"assets/img/Allimgs/By the Valley.webp"} alt="#" /></Link>
+		            <Link to="/Reva"><img src={publicUrl+"assets/img/allimgLP/reva/r2.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		          
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/product-details">By the Valley</Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/Reva">Reva</Link></h3>
 		           
 		          </div>
 		        </div>
@@ -399,11 +399,11 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/Sky"><img src={publicUrl+"assets/img/Allimgs/Sky.webp"} alt="#" /></Link>
+		            <Link to="/Monreve"><img src={publicUrl+"assets/img/allimgLP/Monreve/Monreve2.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/Sky">Sky</Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/Monreve">Monreve </Link></h3>
 		            {/* <div className="ltn__blog-meta-btn">
 		              <div className="ltn__blog-meta">
 		           
@@ -418,18 +418,7 @@ Liv-In</Link></h3>
 		      {/* Blog Item */}
 			
 		      {/* Blog Item */}
-			  <div className="col-lg-4" >
-		        <div className="ltn__blog-item ltn__blog-item-3">
-		          <div className="ltn__blog-img">
-		            <Link to="/LayoutDesign"><img src={publicUrl+"assets/img/Allimgs/Rohan Hills.webp"} alt="#" /></Link>
-		          </div>
-		          <div className="ltn__blog-brief">
-		          
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/LayoutDesign">Layout Design </Link></h3>
-		          
-		          </div>
-		        </div>
-		      </div>
+			
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">

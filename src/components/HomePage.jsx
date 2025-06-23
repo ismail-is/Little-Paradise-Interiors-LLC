@@ -19,9 +19,10 @@ tailored for you,<br/>
    <div >
           {/* <Link to="/Architecture" className="buttons">Architecture Design</Link>&#160; */}
           <Link to="/Interior" className="buttons">Project</Link>&#160;
+          <Link to="/Getin" className="buttons"> Get a Quote</Link>&#160;
 
           {/* >>> changed line */}
-          <QuoteModalTrigger className="buttons" />&#160;
+          {/* <QuoteModalTrigger className="buttons" />&#160; */}
 
           <Link to="/contact" className="buttons">Contact</Link>&#160;
         </div>

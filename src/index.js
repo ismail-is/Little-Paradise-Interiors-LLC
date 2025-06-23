@@ -89,6 +89,9 @@ import Reva from './components/Reva';
 import Merano from './components/Merano';
 import Studio from './components/Studio';
 import Jamal from './components/Jamal';
+import MonrevePage from './components/shop-components/MonrevePage';
+import Monreve from './components/Monreve';
+import GetTouchPage from './components/GetTouchPage';
 class Root extends Component {
     render() {
         return(
@@ -184,6 +187,8 @@ class Root extends Component {
                         <Route path="/Merano" component={ Merano} />
                         <Route path="/Studio-Merano" component={ Studio} />
                         <Route path="/Jamal" component={ Jamal} />
+                        <Route path="/Monreve" component={ Monreve} />
+                        <Route path="/Getin" component={GetTouchPage} />
                         {/* new lpi */}
 	                </Switch>
 	                </div>

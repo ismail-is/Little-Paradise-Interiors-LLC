@@ -346,6 +346,17 @@ class ShopDetails32 extends Component {
 </Link></h3>
 		        </div>
 		      </div>
+			  <div className="col-lg-4">
+		        <div className="ltn__blog-item ltn__blog-item-3">
+		          <div className="ltn__blog-img">
+		            <Link to="/Monreve"><img src={publicUrl+"assets/img/allimgLP/Monreve/Monreve2.jpg"} alt="#" /></Link>
+		          </div>
+		        
+				  <h3 className="ltn__blog-title mt-10"  id='productText'><Link to="/jamal">Monreve
+
+</Link></h3>
+		        </div>
+		      </div>
 			  
 
 

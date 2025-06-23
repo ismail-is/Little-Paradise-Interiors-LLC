@@ -44,7 +44,7 @@ class Footer_v1 extends Component {
 
         return (
 				<footer className="ltn__footer-area" >
-				  <div className="footer-top-area  section-bg-2 plr--5" style={{backgroundColor:"#A23E21"}}>
+				  <div className="footer-top-area  section-bg-2 plr--5" style={{backgroundColor:"#CB4D29"}}>
 				    <div className="container-fluid">
 				      <div className="row">
 				        <div className="col-xl-4 col-md-6 col-sm-6 col-12 mt-30">
@@ -52,9 +52,9 @@ class Footer_v1 extends Component {
 						  {/* <h4 className="footer-title"  id='responsive-text-project-heading' style={{color:'white'}}>Contact Us</h4> */}
 						  <div className="footer-logo" id='responsive-text-project-heading' >
 				              <div className="site-logo">
-				                <a href='/' target='_blank'><img src={publicUrl+"assets/img/Allimgs/whitelogo.png"} alt="Logo" style={{height:'34px'}}  id="footeimg" /></a>
+				                <a href='/' target='_blank'><img src={publicUrl+"assets/img/allimgLP/logo.png"} alt="Logo" style={{height:'100px'}}  id="footeimg" /></a>
 				              </div>
-							  <a href='/' target='_blank'>  <p id="footerstyle" className='mt-6'>Building Beyond</p></a>	
+							  {/* <a href='/' target='_blank'>  <p id="footerstyle" className='mt-6'>Building Beyond</p></a>	 */}
 				            </div>
 				           
 				            {/* <div className="footer-address">
