@@ -91,6 +91,7 @@ class Contactnav extends Component {
 								{/* </li> */}
 								{/* <li><Link to="/Architecture">Architecture Design</Link></li> */}
 																<li><Link to="/Interior">Project </Link></li>
+																<li><Link to="/">Blog </Link></li>
 								{/* <li><Link to="/blog-grid">Projects </Link></li> */}
 								<li><Link to="/contact">Contact </Link></li>
 

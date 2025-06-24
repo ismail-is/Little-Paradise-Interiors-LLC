@@ -100,6 +100,10 @@ export default function BannerVideo() {
       </li>
       <br />
       <li style={{ borderBottom: '2px solid black', display: 'inline-block' }}>
+        <Link to="/Getin"> Get a Quote →</Link>
+      </li>
+      <br />
+      <li style={{ borderBottom: '2px solid black', display: 'inline-block' }}>
         <Link to="/contact">Contact →</Link>
       </li>
       <br />

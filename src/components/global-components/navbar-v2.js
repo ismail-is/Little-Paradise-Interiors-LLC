@@ -83,6 +83,7 @@ class NavbarV2 extends Component {
 								{/* <li><Link to="/about">About</Link></li> */}
 								{/* <li><Link to="/Architecture">Architecture Design</Link></li> */}
 								<li><Link to="/Interior">Project</Link></li>
+								<li><Link to="/">Blog</Link></li>
 								{/* <li ><Link to="/our-projects">Projects</Link>
 									<ul style={{left:"-40px"}}>
 										<li><Link to="/Architecture">Architecture Design</Link></li>
